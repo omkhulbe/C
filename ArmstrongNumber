@@ -13,6 +13,7 @@ void main()
         n=n/10;
 
     }
+    /*Printing the number*/
     if(sum==a)
         printf("%d Number is Armstrong",a);
     else
